@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae4011c4-aa65-4ebf-b611-cd9a9f32e7f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/common/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ConvertBinaryNumberInALinkedListToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/linkedlist/ConvertBinaryNumberInALinkedListToIntegerTest.java" afterDir="false" />
+    <list default="true" id="ae4011c4-aa65-4ebf-b611-cd9a9f32e7f1" name="Changes" comment="solve &quot;Middle of the Linked List&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,11 +65,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688135930067</updated>
-      <workItem from="1688135931076" duration="2806000" />
+      <workItem from="1688135931076" duration="6626000" />
     </task>
+    <task id="LOCAL-00001" summary="solve &quot;Convert Binary Number in a Linked List to Integer&quot;">
+      <option name="closed" value="true" />
+      <created>1688138994025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688138994025</updated>
+    </task>
+    <task id="LOCAL-00002" summary="solve &quot;Middle of the Linked List&quot;">
+      <option name="closed" value="true" />
+      <created>1688140965749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688140965749</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solve &quot;Convert Binary Number in a Linked List to Integer&quot;" />
+    <MESSAGE value="solve &quot;Middle of the Linked List&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve &quot;Middle of the Linked List&quot;" />
   </component>
 </project>
