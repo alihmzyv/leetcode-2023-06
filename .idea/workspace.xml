@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae4011c4-aa65-4ebf-b611-cd9a9f32e7f1" name="Changes" comment="solve &quot;Reverse Linked List&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ConvertBinaryNumberInALinkedListToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ConvertBinaryNumberInALinkedListToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MiddleOfTheLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MiddleOfTheLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ReverseLinkedList.java" afterDir="false" />
+    <list default="true" id="ae4011c4-aa65-4ebf-b611-cd9a9f32e7f1" name="Changes" comment="review the solutions of other people. write down the time complexities.">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MergeTwoSortedLists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688135930067</updated>
       <workItem from="1688135931076" duration="7267000" />
-      <workItem from="1688207919147" duration="1462000" />
+      <workItem from="1688207919147" duration="5094000" />
     </task>
     <task id="LOCAL-00001" summary="solve &quot;Convert Binary Number in a Linked List to Integer&quot;">
       <option name="closed" value="true" />
@@ -95,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688143311870</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="review the solutions of other people. write down the time complexities.">
+      <option name="closed" value="true" />
+      <created>1688209419688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688209419688</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +110,7 @@
     <MESSAGE value="solve &quot;Convert Binary Number in a Linked List to Integer&quot;" />
     <MESSAGE value="solve &quot;Middle of the Linked List&quot;" />
     <MESSAGE value="solve &quot;Reverse Linked List&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve &quot;Reverse Linked List&quot;" />
+    <MESSAGE value="review the solutions of other people. write down the time complexities." />
+    <option name="LAST_COMMIT_MESSAGE" value="review the solutions of other people. write down the time complexities." />
   </component>
 </project>
