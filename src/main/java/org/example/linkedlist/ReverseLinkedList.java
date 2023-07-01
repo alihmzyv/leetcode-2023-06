@@ -4,7 +4,7 @@ import org.example.common.ListNode;
 
 public class ReverseLinkedList {
     /*
-    MY OWN ITERATIVE SOLUTION
+    MY OWN ITERATIVE SOLUTION - time = O(n), space = O(1)
      */
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
@@ -18,7 +18,7 @@ public class ReverseLinkedList {
     }
 
     /*
-    MY OWN RECURSIVE SOLUTION
+    MY OWN RECURSIVE SOLUTION - time = O(n), space = O(n) (recursive)
      */
     public ListNode reverseListRecursive(ListNode head) {
         if (head == null)

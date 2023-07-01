@@ -4,7 +4,7 @@ import org.example.common.ListNode;
 
 public class ConvertBinaryNumberInALinkedListToInteger {
     /*
-    MY OWN SOLUTION O(n)
+    MY OWN SOLUTION - time = O(n), space = O(1)
      */
     public int getDecimalValue(ListNode head) {
         //using doubling
