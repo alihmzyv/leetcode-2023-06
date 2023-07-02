@@ -6,57 +6,38 @@ import java.util.List;
 
 public class MergeTwoSortedLists {
     /*
-    MY OWN SOLUTION, time = O(n), space = O(1)
+    MY OWN SOLUTION (modified based on a sample solution), time = O(n), space = O(1)
      */
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode refToNewHead = null;
-        ListNode chosen = null;
+        ListNode dummy = new ListNode();
+        ListNode curr = dummy;
         while (list1 != null && list2 != null) {
-            int val1 = list1.val;
-            int val2 = list2.val;
-            if (val1 < val2) {
-                if (refToNewHead == null) {
-                    chosen = list1;
-                    refToNewHead = list1;
-                } else {
-                    chosen.next = list1;
-                    chosen = list1;
-                }
+            if (list1.val < list2.val) {
+                curr.next = list1;
                 list1 = list1.next;
-            } else {
-                if (refToNewHead == null) {
-                    chosen = list2;
-                    refToNewHead = list2;
-                } else {
-                    chosen.next = list2;
-                    chosen = list2;
-                }
+            }
+            else {
+                curr.next = list2;
                 list2 = list2.next;
             }
+            curr = curr.next;
         }
+        curr.next = list1 == null ? list2 : list1; //in prev. sol., I iterated through the whole rest of the lest nodes
+        return dummy.next;
+    }
 
-        if (list1 == null) {
-            while (list2 != null) {
-                if (refToNewHead == null) {
-                    refToNewHead = list2;
-                } else {
-                    chosen.next = list2;
-                }
-                chosen = list2;
-                list2 = list2.next;
-            }
+    /*
+    Recursive solution - time O(n), space O(n)
+     */
+    public ListNode mergeTwoListsRec(ListNode list1, ListNode list2) {
+        if (list1 == null) return list2;
+        if (list2 == null) return list1;
+        if (list1.val < list2.val) {
+            list1.next = mergeTwoLists(list1.next, list2);
+            return list1;
         } else {
-            while (list1 != null) {
-                if (refToNewHead == null) {
-                    refToNewHead = list1;
-                } else {
-                    chosen.next = list1;
-                }
-                chosen = list1;
-                list1 = list1.next;
-            }
+            list2.next = mergeTwoLists(list1, list2.next);
+            return list2;
         }
-
-        return refToNewHead;
     }
 }
