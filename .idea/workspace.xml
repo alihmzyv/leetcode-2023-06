@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae4011c4-aa65-4ebf-b611-cd9a9f32e7f1" name="Changes" comment="solve &quot;Remove Duplicates from Sorted List&quot;.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/PalindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/linkedlist/PalindromeLinkedListTest.java" afterDir="false" />
+    <list default="true" id="ae4011c4-aa65-4ebf-b611-cd9a9f32e7f1" name="Changes" comment="solve &quot;Palindrome Linked List&quot;.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/LinkedListCycle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -126,7 +125,8 @@
       <workItem from="1688207919147" duration="11283000" />
       <workItem from="1688296021384" duration="3579000" />
       <workItem from="1688388520174" duration="2398000" />
-      <workItem from="1688395226061" duration="938000" />
+      <workItem from="1688395226061" duration="4267000" />
+      <workItem from="1688449607008" duration="2410000" />
     </task>
     <task id="LOCAL-00001" summary="solve &quot;Convert Binary Number in a Linked List to Integer&quot;">
       <option name="closed" value="true" />
@@ -184,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688298667077</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="solve &quot;Palindrome Linked List&quot;.">
+      <option name="closed" value="true" />
+      <created>1688397279846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688397279846</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +206,7 @@
     <MESSAGE value="solve &quot;Merge Two Sorted Lists&quot; problem." />
     <MESSAGE value="add recursive solution of merge two lists. modify the previous solution." />
     <MESSAGE value="solve &quot;Remove Duplicates from Sorted List&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="solve &quot;Remove Duplicates from Sorted List&quot;." />
+    <MESSAGE value="solve &quot;Palindrome Linked List&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="solve &quot;Palindrome Linked List&quot;." />
   </component>
 </project>
