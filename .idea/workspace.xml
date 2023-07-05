@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae4011c4-aa65-4ebf-b611-cd9a9f32e7f1" name="Changes" comment="solve &quot;Palindrome Linked List&quot;.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/LinkedListCycle.java" afterDir="false" />
+    <list default="true" id="ae4011c4-aa65-4ebf-b611-cd9a9f32e7f1" name="Changes" comment="solve &quot;Linked List Cycle&quot;.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/RemoveLinkedListElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/PalindromeLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,26 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="leetcode-2023-06" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,20 +56,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/home/alihmzyv/IdeaProjects/leetcode-2023-06",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -126,7 +148,8 @@
       <workItem from="1688296021384" duration="3579000" />
       <workItem from="1688388520174" duration="2398000" />
       <workItem from="1688395226061" duration="4267000" />
-      <workItem from="1688449607008" duration="2410000" />
+      <workItem from="1688449607008" duration="2524000" />
+      <workItem from="1688536155151" duration="1513000" />
     </task>
     <task id="LOCAL-00001" summary="solve &quot;Convert Binary Number in a Linked List to Integer&quot;">
       <option name="closed" value="true" />
@@ -192,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688397279846</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="solve &quot;Linked List Cycle&quot;.">
+      <option name="closed" value="true" />
+      <created>1688452037783</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688452037783</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +238,7 @@
     <MESSAGE value="add recursive solution of merge two lists. modify the previous solution." />
     <MESSAGE value="solve &quot;Remove Duplicates from Sorted List&quot;." />
     <MESSAGE value="solve &quot;Palindrome Linked List&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="solve &quot;Palindrome Linked List&quot;." />
+    <MESSAGE value="solve &quot;Linked List Cycle&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="solve &quot;Linked List Cycle&quot;." />
   </component>
 </project>

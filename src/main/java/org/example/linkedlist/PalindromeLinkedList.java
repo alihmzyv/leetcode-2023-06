@@ -22,4 +22,8 @@ public class PalindromeLinkedList {
             }
             return true;
     }
+
+    /*
+    TODO: study other approaches
+     */
 }
