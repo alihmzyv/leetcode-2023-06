@@ -2,9 +2,6 @@ package org.example.linkedlist;
 
 import org.example.common.ListNode;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class MaximumTwinSumOfALinkedList {
     public int pairSum(ListNode head) {
         //output to array
@@ -25,5 +22,4 @@ public class MaximumTwinSumOfALinkedList {
 
         return maxTwinSum;
     }
-
 }
