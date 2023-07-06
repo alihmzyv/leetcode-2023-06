@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae4011c4-aa65-4ebf-b611-cd9a9f32e7f1" name="Changes" comment="solve &quot;Linked List Cycle&quot;.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/RemoveLinkedListElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/PalindromeLinkedList.java" afterDir="false" />
+    <list default="true" id="df289104-ada8-4989-99a6-d015d0232033" name="Changes" comment="solve &quot;Merge Nodes in Between Zeros&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MergeNodesInBetweenZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MergeNodesInBetweenZeros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -39,48 +33,12 @@
       </state>
     </system>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JUnit5 Test Class" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2RvgNSRVDkRAY3Z5rBkb9AxXodV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "/home/alihmzyv/IdeaProjects/leetcode-2023-06",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="org.example.linkedlist" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Gradle.PalindromeLinkedListTest">
-    <configuration name="PalindromeLinkedListTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager">
+    <configuration name="MergeNodesInBetweenZerosTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -93,31 +51,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.linkedlist.PalindromeLinkedListTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
-    <configuration name="PalindromeLinkedListTest.isPalindrome" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;org.example.linkedlist.PalindromeLinkedListTest.isPalindrome&quot;" />
+            <option value="&quot;org.example.linkedlist.MergeNodesInBetweenZerosTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -130,115 +64,24 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.PalindromeLinkedListTest" />
-        <item itemvalue="Gradle.PalindromeLinkedListTest.isPalindrome" />
+        <item itemvalue="Gradle.MergeNodesInBetweenZerosTest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="ae4011c4-aa65-4ebf-b611-cd9a9f32e7f1" name="Changes" comment="" />
-      <created>1688135930067</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1688135930067</updated>
-      <workItem from="1688135931076" duration="7267000" />
-      <workItem from="1688207919147" duration="11283000" />
-      <workItem from="1688296021384" duration="3579000" />
-      <workItem from="1688388520174" duration="2398000" />
-      <workItem from="1688395226061" duration="4267000" />
-      <workItem from="1688449607008" duration="2524000" />
-      <workItem from="1688536155151" duration="1513000" />
-    </task>
-    <task id="LOCAL-00001" summary="solve &quot;Convert Binary Number in a Linked List to Integer&quot;">
+    <task id="LOCAL-00001" summary="solve &quot;Merge Nodes in Between Zeros&quot;">
       <option name="closed" value="true" />
-      <created>1688138994025</created>
+      <created>1688639320688</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1688138994025</updated>
+      <updated>1688639320688</updated>
     </task>
-    <task id="LOCAL-00002" summary="solve &quot;Middle of the Linked List&quot;">
-      <option name="closed" value="true" />
-      <created>1688140965749</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1688140965749</updated>
-    </task>
-    <task id="LOCAL-00003" summary="solve &quot;Reverse Linked List&quot;">
-      <option name="closed" value="true" />
-      <created>1688143311870</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1688143311870</updated>
-    </task>
-    <task id="LOCAL-00004" summary="review the solutions of other people. write down the time complexities.">
-      <option name="closed" value="true" />
-      <created>1688209419688</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1688209419688</updated>
-    </task>
-    <task id="LOCAL-00005" summary="solve &quot;Merge Two Sorted Lists&quot; problem.">
-      <option name="closed" value="true" />
-      <created>1688213297501</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1688213297501</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add recursive solution of merge two lists. modify the previous solution.">
-      <option name="closed" value="true" />
-      <created>1688297855784</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1688297855784</updated>
-    </task>
-    <task id="LOCAL-00007" summary="solve &quot;Remove Duplicates from Sorted List&quot;.">
-      <option name="closed" value="true" />
-      <created>1688298667077</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1688298667077</updated>
-    </task>
-    <task id="LOCAL-00008" summary="solve &quot;Palindrome Linked List&quot;.">
-      <option name="closed" value="true" />
-      <created>1688397279846</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1688397279846</updated>
-    </task>
-    <task id="LOCAL-00009" summary="solve &quot;Linked List Cycle&quot;.">
-      <option name="closed" value="true" />
-      <created>1688452037783</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1688452037783</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solve &quot;Convert Binary Number in a Linked List to Integer&quot;" />
-    <MESSAGE value="solve &quot;Middle of the Linked List&quot;" />
-    <MESSAGE value="solve &quot;Reverse Linked List&quot;" />
-    <MESSAGE value="review the solutions of other people. write down the time complexities." />
-    <MESSAGE value="solve &quot;Merge Two Sorted Lists&quot; problem." />
-    <MESSAGE value="add recursive solution of merge two lists. modify the previous solution." />
-    <MESSAGE value="solve &quot;Remove Duplicates from Sorted List&quot;." />
-    <MESSAGE value="solve &quot;Palindrome Linked List&quot;." />
-    <MESSAGE value="solve &quot;Linked List Cycle&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="solve &quot;Linked List Cycle&quot;." />
+    <MESSAGE value="solve &quot;Merge Nodes in Between Zeros&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve &quot;Merge Nodes in Between Zeros&quot;" />
   </component>
 </project>
