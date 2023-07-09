@@ -1,6 +1,6 @@
 package org.example.linkedlist;
 
-import org.example.common.ListNode;
+import org.example.linkedlist.common.ListNode;
 
 /*
 Problem @: https://leetcode.com/problems/remove-duplicates-from-sorted-list/

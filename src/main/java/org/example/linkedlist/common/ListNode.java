@@ -1,4 +1,4 @@
-package org.example.common;
+package org.example.linkedlist.common;
 
 public class ListNode {
     public int val;

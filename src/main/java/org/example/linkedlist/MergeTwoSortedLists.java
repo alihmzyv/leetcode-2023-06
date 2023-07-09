@@ -1,8 +1,6 @@
 package org.example.linkedlist;
 
-import org.example.common.ListNode;
-
-import java.util.List;
+import org.example.linkedlist.common.ListNode;
 
 public class MergeTwoSortedLists {
     /*

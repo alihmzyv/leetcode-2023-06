@@ -1,6 +1,6 @@
 package org.example.linkedlist;
 
-import org.example.common.ListNode;
+import org.example.linkedlist.common.ListNode;
 
 import java.util.HashSet;
 import java.util.Set;

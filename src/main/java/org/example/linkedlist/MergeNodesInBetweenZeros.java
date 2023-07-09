@@ -1,6 +1,6 @@
 package org.example.linkedlist;
 
-import org.example.common.ListNode;
+import org.example.linkedlist.common.ListNode;
 
 public class MergeNodesInBetweenZeros {
     public ListNode mergeNodes(ListNode head) {
