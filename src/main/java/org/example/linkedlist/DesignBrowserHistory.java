@@ -18,6 +18,9 @@ public class DesignBrowserHistory {
     }
 }
 
+/*
+MY OWN SOLUTION
+ */
 class BrowserHistory {
     //https://stackoverflow.com/posts/6869625/revisions
     private final Stack<String> back = new Stack<>();

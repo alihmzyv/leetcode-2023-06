@@ -4,26 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df289104-ada8-4989-99a6-d015d0232033" name="Changes" comment="made clean, but slower.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/DesignBrowserHistory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/common/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/common/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ConvertBinaryNumberInALinkedListToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ConvertBinaryNumberInALinkedListToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/LinkedListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MaximumTwinSumOfALinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MaximumTwinSumOfALinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MergeNodesInBetweenZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MergeNodesInBetweenZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MiddleOfTheLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MiddleOfTheLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/PalindromeLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/RemoveDuplicatesFromSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/RemoveDuplicatesFromSortedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/RemoveLinkedListElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/RemoveLinkedListElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/ReverseLinkedList.java" afterDir="false" />
+    <list default="true" id="df289104-ada8-4989-99a6-d015d0232033" name="Changes" comment="solve https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReformatPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/DeleteNodeInALinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/MergeInBetweenLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/RemoveNodesFromLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/SpiralMatrix4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/SwapNodesInPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/SwappingNodesInALinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ReformatPhoneNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/linkedlist/SpiralMatrix4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/DesignBrowserHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/DesignBrowserHistory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/linkedlist/MergeNodesInBetweenZerosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/linkedlist/MergeNodesInBetweenZerosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/linkedlist/PalindromeLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/linkedlist/PalindromeLinkedListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -33,12 +37,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="leetcode-2023-06" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -49,35 +48,53 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2SKpkQzmOtFNnhK1YUMejgZdiDz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alihmzyv/IdeaProjects/leetcode-2023-06&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.DesignBrowserHistory">
-    <configuration name="DesignBrowserHistory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.linkedlist.DesignBrowserHistory" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+      <recent name="org.example.pickone" />
+      <recent name="org.example.linkedlist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.ReformatPhoneNumberTest.reformatNumberTest3">
+    <configuration name="ReformatPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ReformatPhoneNumber" />
       <module name="leetcode-2023-06.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.linkedlist.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,7 +102,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeNodesInBetweenZerosTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ReformatPhoneNumberTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -98,7 +115,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;org.example.linkedlist.MergeNodesInBetweenZerosTest&quot;" />
+            <option value="&quot;org.example.ReformatPhoneNumberTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -106,13 +123,88 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReformatPhoneNumberTest.reformatNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;org.example.ReformatPhoneNumberTest.reformatNumber&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReformatPhoneNumberTest.reformatNumberTest2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;org.example.ReformatPhoneNumberTest.reformatNumberTest2&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReformatPhoneNumberTest.reformatNumberTest3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;org.example.ReformatPhoneNumberTest.reformatNumberTest3&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DesignBrowserHistory" />
-        <item itemvalue="Gradle.MergeNodesInBetweenZerosTest" />
+        <item itemvalue="Gradle.ReformatPhoneNumberTest.reformatNumberTest3" />
+        <item itemvalue="Gradle.ReformatPhoneNumberTest.reformatNumberTest2" />
+        <item itemvalue="Gradle.ReformatPhoneNumberTest.reformatNumber" />
+        <item itemvalue="Gradle.ReformatPhoneNumberTest" />
+        <item itemvalue="Application.ReformatPhoneNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -140,9 +232,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688905269557</updated>
-      <workItem from="1688905270743" duration="1973000" />
+      <workItem from="1688905270743" duration="5567000" />
+      <workItem from="1688928477912" duration="1133000" />
+      <workItem from="1688964403914" duration="626000" />
+      <workItem from="1689773565219" duration="2169000" />
+      <workItem from="1689831061881" duration="4585000" />
+      <workItem from="1692790563865" duration="6523000" />
+      <workItem from="1692945900677" duration="11000" />
+      <workItem from="1698757050167" duration="2415000" />
+      <workItem from="1699271495092" duration="6503000" />
+      <workItem from="1699278618550" duration="1241000" />
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="solve &quot;Design Browser History&quot;.">
+      <option name="closed" value="true" />
+      <created>1688907734154</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688907734154</updated>
+    </task>
+    <task id="LOCAL-00004" summary="move common to linked list.">
+      <option name="closed" value="true" />
+      <created>1688907774665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688907774665</updated>
+    </task>
+    <task id="LOCAL-00005" summary="solve https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/.">
+      <option name="closed" value="true" />
+      <created>1698759460460</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698759460460</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +276,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solve &quot;Merge Nodes in Between Zeros&quot;" />
     <MESSAGE value="made clean, but slower." />
-    <option name="LAST_COMMIT_MESSAGE" value="made clean, but slower." />
+    <MESSAGE value="solve &quot;Design Browser History&quot;." />
+    <MESSAGE value="move common to linked list." />
+    <MESSAGE value="solve https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/." />
+    <option name="LAST_COMMIT_MESSAGE" value="solve https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/ReformatPhoneNumber.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -18,7 +18,7 @@ class MergeNodesInBetweenZerosTest {
         }
     }
 
-    private ListNode createList(List<Integer> nums) {
+    public static ListNode createList(List<Integer> nums) {
         ListNode dummyNode = new ListNode();
         final ListNode[] curr = {dummyNode};
         nums.forEach(num -> {
